@@ -42,9 +42,10 @@ IPython is a library that provides a rich toolkit to help users work with Python
 -   Flexible,  [embeddable](https://ipython.org/ipython-doc/stable/interactive/reference.html#embedding-ipython)  interpreters to load into your own projects.
 -   Easy to use, high performance tools for  [parallel computing](https://ipyparallel.readthedocs.io/en/latest/).  
 - 
-The *kernel for Jupyter* is what provides our interactive Python programming en
+The *kernel for Jupyter* is what provides the interactive Python programming environment we use in this course **Jupyter Notebooks**. 
+
 ## Jupyter notebooks
-We will be computing using Jupyter notebooks (http://jupyter.org/) and 
+We will be computing using [Jupyter notebooks (http://jupyter.org/) and 
 the programming language *Python* (https://www.python.org/).
 Jupyter notebooks provide an interactive environment where you can mix text, equations, computer code and visual outputs. This is new technology that is increasingly widely used, and it is all free and open-source. You can run Jupyter and Python locally on your own computer. The _Anaconda_ environment is recommended. It is free and available at [https://www.continuum.io/downloads](https://www.continuum.io/downloads). Make sure you select the Python 3 version.
    + Jupyter lab
@@ -78,8 +79,8 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDY0OTk1ODMsMTQ4MTY3MTA4LC0xNT
-k1MDUzMDA3LC0xNjUyOTY5MjMwLC0yMDA4MDk2Mjc5LDc2MDk2
-MjYyNywxMTczMDAxMDc4LC0xMzQzOTY1Njg5LDE2NDA2MDgxNz
-ksLTIwNTkzMjk2OTAsLTE5MzEwMTQyNzVdfQ==
+eyJoaXN0b3J5IjpbMTc1NDczNjM3NywxNDgxNjcxMDgsLTE1OT
+UwNTMwMDcsLTE2NTI5NjkyMzAsLTIwMDgwOTYyNzksNzYwOTYy
+NjI3LDExNzMwMDEwNzgsLTEzNDM5NjU2ODksMTY0MDYwODE3OS
+wtMjA1OTMyOTY5MCwtMTkzMTAxNDI3NV19
 -->
