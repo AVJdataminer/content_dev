@@ -29,9 +29,8 @@ Python has a substantial [standard library](https://docs.python.org/3/library/) 
  The list above is a tiny sampling of the functions available in the `math` module and there are many more modules as well in the standard Python library. It is good to familiarize yourself with the functions available, spend some time reviewing the documentation and using the base Python functions.
  
 ## Other libraries - Modules and Packages
- As we mentioned earlier because Python is Open-Source and has a large and ever-growing user base, there are thousands of libraries that have been developed and contributed to the community of Python users like you. These libraries are often developed around solving specialized problems and commonly referred to as packages or modules. When developing programs outside of learning exercises,
-if there is a no standard library module for a problem you are trying to solve, 
-search online for a module before implementing your own. There is a wide range of Python libraries available for specialised problems. 
+ As we mentioned earlier because Python is Open-Source and has a large and ever-growing user base, there are thousands of libraries that have been developed and contributed to the community of Python users like you. These libraries are often developed around solving specialized problems and commonly referred to as packages or modules. When developing programs
+if there is a no standard library module for a problem you are trying to solve, search online for a module before implementing your own. There is a wide range of Python libraries available for specialised problems. 
 
 of NumPy (http://www.numpy.org/), which is specialised library for numerical computation. 
 
@@ -84,8 +83,8 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTUwNTMwMDcsLTE2NTI5NjkyMzAsLT
-IwMDgwOTYyNzksNzYwOTYyNjI3LDExNzMwMDEwNzgsLTEzNDM5
-NjU2ODksMTY0MDYwODE3OSwtMjA1OTMyOTY5MCwtMTkzMTAxND
-I3NV19
+eyJoaXN0b3J5IjpbODU5MzM1Njc0LC0xNTk1MDUzMDA3LC0xNj
+UyOTY5MjMwLC0yMDA4MDk2Mjc5LDc2MDk2MjYyNywxMTczMDAx
+MDc4LC0xMzQzOTY1Njg5LDE2NDA2MDgxNzksLTIwNTkzMjk2OT
+AsLTE5MzEwMTQyNzVdfQ==
 -->
