@@ -32,19 +32,8 @@ Python has a substantial [standard library](https://docs.python.org/3/library/) 
  As we mentioned earlier because Python is Open-Source and has a large and ever-growing user base, there are thousands of libraries that have been developed and contributed to the community of Python users like you. These libraries are often developed around solving specialized problems and commonly referred to as packages or modules. When developing programs
 if there is a no standard library module for a problem you are trying to solve, search online for a module before implementing your own. There is a wide range of Python libraries available for specialised problems. 
 
-of NumPy (http://www.numpy.org/), which is specialised library for numerical computation. 
+Check out the [Python Package Index (PyPI)](https://pypi.org/), a repository of software for Python. Search for different libraries — you’ll find software to help you with everything from sending emails to composing music.
 
-The simplest way to install a non-standard library is using the command `pip`. From the command line, the library NumPy is installed using:
-
-    pip install numpy
-    
-and from inside a Jupyter notebook use:
-
-    !pip install numpy
-
-NumPy is so commonly used it is probably already installed on computers you will be using.
-You will see `pip` being used in some later notebooks to install special-purpose tools.
-    
 ## Interactive python
 Python modules that allow for user feedback 
     
@@ -83,7 +72,7 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5MzM1Njc0LC0xNTk1MDUzMDA3LC0xNj
+eyJoaXN0b3J5IjpbMTQ4MTY3MTA4LC0xNTk1MDUzMDA3LC0xNj
 UyOTY5MjMwLC0yMDA4MDk2Mjc5LDc2MDk2MjYyNywxMTczMDAx
 MDc4LC0xMzQzOTY1Njg5LDE2NDA2MDgxNzksLTIwNTkzMjk2OT
 AsLTE5MzEwMTQyNzVdfQ==
