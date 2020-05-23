@@ -23,7 +23,9 @@ At the end of this checkpoint, you'll modify and save a Jupyter Notebook and sha
 
     
 ## Standard library functions
-    
+The Python language is distributed with a multitude of prebuilt functions that support its usability. You can read more about the available functions in the [Official Python Standard Library](https://docs.python.org/3/library/). 
+
+
 ## Modules - what are they
     
 ## Interactive python
