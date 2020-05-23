@@ -29,9 +29,8 @@ Python has a substantial [standard library](https://docs.python.org/3/library/) 
  The list above is a tiny sampling of the functions available in the `math` module and there are many more modules as well in the standard Python library. It is good to familiarize yourself with the functions available, spend some time reviewing the documentation and using the base Python functions.
  
 ## Other libraries - Modules and Packages
- As we mentioned earlier because Python is Open-Source and has a large and ever-growing user base there are thousands of libraries that have ben developed and contributed to the co, which are available to Python users like you. These libraries can help with many programming tasks. No matter what your program's objective is, the chances are high that there's a "package" for that!
-
-The standard library functions are general purpose and will be available in any Python environment.
+ As we mentioned earlier because Python is Open-Source and has a large and ever-growing user base there are thousands of libraries that have been developed and contributed to the community of Python users like you. 
+Altho standard library functions are general purpose and will be available in any Python environment.
 Specialised tools are usually made available in other libraries (modules). The is a huge range of Python libraries available for specialised problems. We have already used some parts
 of NumPy (http://www.numpy.org/), which is specialised library for numerical computation. 
 It provides much the same functionality as MATLAB. 
@@ -94,8 +93,8 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxNzc1NzE5LC0xNjUyOTY5MjMwLC0yMD
-A4MDk2Mjc5LDc2MDk2MjYyNywxMTczMDAxMDc4LC0xMzQzOTY1
-Njg5LDE2NDA2MDgxNzksLTIwNTkzMjk2OTAsLTE5MzEwMTQyNz
-VdfQ==
+eyJoaXN0b3J5IjpbMjA2NjExODA5MCwtMTY1Mjk2OTIzMCwtMj
+AwODA5NjI3OSw3NjA5NjI2MjcsMTE3MzAwMTA3OCwtMTM0Mzk2
+NTY4OSwxNjQwNjA4MTc5LC0yMDU5MzI5NjkwLC0xOTMxMDE0Mj
+c1XX0=
 -->
