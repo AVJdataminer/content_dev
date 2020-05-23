@@ -18,7 +18,7 @@ In this program, you will be programming in Python 3. This is the latest version
 ## Standard library functions
 A feature of modern programming languages is a library of standard functions. This allows users to work with a set of standard, well-tested and optimised functions for performing common tasks rather than writing our own. The use of  libraries results in more efficient programs written in less time.
 
-Python has a substantial [standard library](https://docs.python.org/3/library/) where a slue of pre-built functions are available for use upon installation. An example of a function provided in the standard library is `type()` this function returns the data type of the input object to the user. Functions with similar purposes are organized into *Modules*. For example the Standard Python Library contains the [`math`](https://docs.python.org/3/library/math.html#module-math "math: Mathematical functions (sin() etc.).") module which contains various mathematical functions and Constants:
+Python has a substantial [standard library](https://docs.python.org/3/library/) where a slue of pre-built functions are available for use upon installation. An example of a function provided in the standard library is `type()` this function returns the data type of the input object to the user. Functions with similar purposes are organized into *Modules*. For example the Standard Python Library contains the [`math`](https://docs.python.org/3/library/math.html#module-math "math: Mathematical functions (sin() etc.).") module which contains the following types of mathematical functions and constants:
 -   [Number-theoretic and representation functions](https://docs.python.org/3/library/math.html#number-theoretic-and-representation-functions)
 -   [Power and logarithmic functions](https://docs.python.org/3/library/math.html#power-and-logarithmic-functions)
 -   [Trigonometric functions](https://docs.python.org/3/library/math.html#trigonometric-functions)
@@ -92,7 +92,7 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3OTQ2OTA0LC0yMDA4MDk2Mjc5LDc2MD
-k2MjYyNywxMTczMDAxMDc4LC0xMzQzOTY1Njg5LDE2NDA2MDgx
-NzksLTIwNTkzMjk2OTAsLTE5MzEwMTQyNzVdfQ==
+eyJoaXN0b3J5IjpbLTE2NjU2ODIzMjUsLTIwMDgwOTYyNzksNz
+YwOTYyNjI3LDExNzMwMDEwNzgsLTEzNDM5NjU2ODksMTY0MDYw
+ODE3OSwtMjA1OTMyOTY5MCwtMTkzMTAxNDI3NV19
 -->
