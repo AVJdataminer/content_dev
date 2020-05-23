@@ -29,11 +29,11 @@ Python has a substantial [standard library](https://docs.python.org/3/library/) 
  The list above is a tiny sampling of the functions available in the `math` module and there are many more modules as well in the standard Python library. It is good to familiarize yourself with the functions available, spend some time reviewing the documentation and using the base Python functions.
  
 ## Other libraries - Modules and Packages
- As we mentioned earlier because Python is Open-Source and has a large and ever-growing user base, there are thousands of libraries that have been developed and contributed to the community of Python users like you. These libraries are often developed around solving specialized problems and commonly referred to as packages or modules. Most likely if you need a function to perform
- 
- The is a huge range of Python libraries available for specialised problems. We have already used some parts
+ As we mentioned earlier because Python is Open-Source and has a large and ever-growing user base, there are thousands of libraries that have been developed and contributed to the community of Python users like you. These libraries are often developed around solving specialized problems and commonly referred to as packages or modules. When developing programs outside of learning exercises,
+if there is a no standard library module for a problem you are trying to solve, 
+search online for a module before implementing your own. There is a wide range of Python libraries available for specialised problems. 
+
 of NumPy (http://www.numpy.org/), which is specialised library for numerical computation. 
-It provides much the same functionality as MATLAB. 
 
 The simplest way to install a non-standard library is using the command `pip`. From the command line, the library NumPy is installed using:
 
@@ -45,16 +45,7 @@ and from inside a Jupyter notebook use:
 
 NumPy is so commonly used it is probably already installed on computers you will be using.
 You will see `pip` being used in some later notebooks to install special-purpose tools.
-
-When developing programs outside of learning exercises,
-if there is a no standard library module for a problem you are trying to solve, 
-search online for a module before implementing your own.
-
- Before you program a function, check if there is a library function that can perform the task. 
-Search engines are a good way to find library functions, e.g. entering "Is there a Python function to compute the hyperbolic tangent 
-## Modules - what are they
- 
-   
+    
 ## Interactive python
 Python modules that allow for user feedback 
     
@@ -93,8 +84,8 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MzU0MjIzMCwtMTY1Mjk2OTIzMCwtMj
-AwODA5NjI3OSw3NjA5NjI2MjcsMTE3MzAwMTA3OCwtMTM0Mzk2
-NTY4OSwxNjQwNjA4MTc5LC0yMDU5MzI5NjkwLC0xOTMxMDE0Mj
-c1XX0=
+eyJoaXN0b3J5IjpbLTE1OTUwNTMwMDcsLTE2NTI5NjkyMzAsLT
+IwMDgwOTYyNzksNzYwOTYyNjI3LDExNzMwMDEwNzgsLTEzNDM5
+NjU2ODksMTY0MDYwODE3OSwtMjA1OTMyOTY5MCwtMTkzMTAxND
+I3NV19
 -->
