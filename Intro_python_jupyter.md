@@ -35,7 +35,7 @@ if there is a no standard library module for a problem you are trying to solve, 
 Check out the [Python Package Index (PyPI)](https://pypi.org/), a repository of software for Python. Search for different libraries — you’ll find software to help you with everything from sending emails to composing music.
 
 ## Interactive python [IPython](url)
-IPython is a library that provides a rich toolkit to help users work with Python interactively, similar to MATLAB or a scientfic programming environment . It has gone through many iterations starting in the early 2000's and is continuing to impro
+IPython is a library that provides a rich toolkit to help users work with Python interactively, similar to MATLAB or a scientfic programming environment . It has gone through many iterations starting in the early 2000's and the first version of Jupyter notebooks
     
 ## Jupyter notebooks
 We will be computing using Jupyter notebooks (http://jupyter.org/) and 
@@ -72,8 +72,8 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNzExNzI3MSwxNDgxNjcxMDgsLTE1OT
-UwNTMwMDcsLTE2NTI5NjkyMzAsLTIwMDgwOTYyNzksNzYwOTYy
-NjI3LDExNzMwMDEwNzgsLTEzNDM5NjU2ODksMTY0MDYwODE3OS
-wtMjA1OTMyOTY5MCwtMTkzMTAxNDI3NV19
+eyJoaXN0b3J5IjpbLTE1OTY4MzkzNzYsMTQ4MTY3MTA4LC0xNT
+k1MDUzMDA3LC0xNjUyOTY5MjMwLC0yMDA4MDk2Mjc5LDc2MDk2
+MjYyNywxMTczMDAxMDc4LC0xMzQzOTY1Njg5LDE2NDA2MDgxNz
+ksLTIwNTkzMjk2OTAsLTE5MzEwMTQyNzVdfQ==
 -->
