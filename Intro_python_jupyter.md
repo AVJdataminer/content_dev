@@ -15,7 +15,7 @@ Developed in the late 1980s, Python [has exploded](https://www.economist.com/gra
 
 In this program, you will be programming in Python 3. This is the latest version of the language and the one you'd be most likely to use on the job. However, Python 2 is still used, and it's not always compatible with Python 3! You don't need to understand all [the details](https://wiki.python.org/moin/Python2orPython3) of this incompatibility right now. But you should know this: if you're ever executing code that you found online and it's not working properly, the problem could be that the code was written for Python 2. Before troubleshooting anything else, check whether the code was written for Python 2 or Python 3.
 
-Python's large and ever-growing user base has also developed and contributed to thousands of libraries, which are available to Python users like you. These libraries can help with many programming tasks. No matter what your program's objective is, the chances are high that there's a "package" for that!
+
 
 For the remainder of this checkpoint, you'll get a high-level overview of how you should think about programming. You'll learn how programming fits into your data science toolkit, how to approach learning to program for data science, and how programming will make you stand out as a job candidate. You'll also be introduced to Jupyter Notebooks, which is the main interface you'll use to work with Python.
 
@@ -51,7 +51,7 @@ When developing programs outside of learning exercises,
 if there is a no standard library module for a problem you are trying to solve, 
 search online for a module before implementing your own.
 ## Modules - what are they
-    
+   Python's large and ever-growing user base has also developed and contributed to thousands of libraries, which are available to Python users like you. These libraries can help with many programming tasks. No matter what your program's objective is, the chances are high that there's a "package" for that!
 ## Interactive python
 Python modules that allow for user feedback 
     
@@ -90,6 +90,6 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzU4NDYwLDE2NDA2MDgxNzksLTIwNT
-kzMjk2OTAsLTE5MzEwMTQyNzVdfQ==
+eyJoaXN0b3J5IjpbLTE5NjMxMDU2OTgsMTY0MDYwODE3OSwtMj
+A1OTMyOTY5MCwtMTkzMTAxNDI3NV19
 -->
