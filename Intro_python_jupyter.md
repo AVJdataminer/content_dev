@@ -28,7 +28,46 @@ for performing common tasks rather than writing our own. This makes our programs
 
 The Python language is distributed with a multitude of prebuilt functions that support its usability. You can read more about the available functions in the [Official Python Standard Library](https://docs.python.org/3/library/). 
 
+A feature of modern programming languages is an extensive library of standard functions. This means that we can make use of standard, well-tested and optimised functions
+for performing common tasks rather than writing our own. This makes our programs shorter and of higher quality, and in most cases faster.
 
+
+
+## Objectives
+
+- Introduce use of standard library functions
+- Importing and using modules
+- Introduction to namespaces
+- Print formatting of floats
+
+# The standard library
+
+You have already used some standard library types and functions. In previous activities we have used built-in types like `string` and `float`, and the function `abs` for absolute value. We have made use of the standard library function `print` to display to the screen.
+
+Python has a large standard library. To organise it, most functionality is arranged into 'modules', with each module providing a range of related functions. Before you program a function, check if there is a library function that can perform the task. The Python standard library is documented at https://docs.python.org/3/library/.
+Search engines are a good way to find library functions, e.g. entering "Is there a Python function to compute the hyperbolic tangent of a complex number" into a search engine will take you to the function `cmath.tanh`. Try this link: http://bfy.tw/7aMc.
+
+# Other libraries
+
+The standard library tools are general purpose and will be available in any Python environment.
+Specialised tools are usually made available in other libraries (modules). The is a huge range of Python libraries available for specialised problems. We have already used some parts
+of NumPy (http://www.numpy.org/), which is specialised library for numerical computation. 
+It provides much the same functionality as MATLAB. 
+
+The simplest way to install a non-standard library is using the command `pip`. From the command line, the library NumPy is installed using:
+
+    pip install numpy
+    
+and from inside a Jupyter notebook use:
+
+    !pip install numpy
+
+NumPy is so commonly used it is probably already installed on computers you will be using.
+You will see `pip` being used in some later notebooks to install special-purpose tools.
+
+When developing programs outside of learning exercises,
+if there is a no standard library module for a problem you are trying to solve, 
+search online for a module before implementing your own.
 ## Modules - what are they
     
 ## Interactive python
@@ -69,6 +108,6 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MDYwODE3OSwtMjA1OTMyOTY5MCwtMT
-kzMTAxNDI3NV19
+eyJoaXN0b3J5IjpbLTIwMDU3MDMyMzgsMTY0MDYwODE3OSwtMj
+A1OTMyOTY5MCwtMTkzMTAxNDI3NV19
 -->
