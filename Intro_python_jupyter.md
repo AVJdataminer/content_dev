@@ -21,7 +21,7 @@ A feature of modern programming languages is a library of standard functions. Th
 Python has a substantial [standard library](https://docs.python.org/3/library/). To organise it, most functionality is arranged into 'modules', with each module providing a range of related functions. Before you program a function, check if there is a library function that can perform the task. The Python standard library is documented at https://docs.python.org/3/library/.
 Search engines are a good way to find library functions, e.g. entering "Is there a Python function to compute the hyperbolic tangent of a complex number" into a search engine will take you to the function `cmath.tanh`. Try this link: http://bfy.tw/7aMc.
 
-# Other libraries
+## Other libraries - Modules and Packages
 
 The standard library tools are general purpose and will be available in any Python environment.
 Specialised tools are usually made available in other libraries (modules). The is a huge range of Python libraries available for specialised problems. We have already used some parts
@@ -82,6 +82,7 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MzAwMTA3OCwtMTM0Mzk2NTY4OSwxNj
-QwNjA4MTc5LC0yMDU5MzI5NjkwLC0xOTMxMDE0Mjc1XX0=
+eyJoaXN0b3J5IjpbNzYwOTYyNjI3LDExNzMwMDEwNzgsLTEzND
+M5NjU2ODksMTY0MDYwODE3OSwtMjA1OTMyOTY5MCwtMTkzMTAx
+NDI3NV19
 -->
