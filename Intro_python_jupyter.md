@@ -14,11 +14,9 @@ Python is a free, open-source, and super versatile programming language. Python 
 Developed in the late 1980s, Python [has exploded](https://www.economist.com/graphic-detail/2018/07/26/python-is-becoming-the-worlds-most-popular-coding-language) in popularity in recent years, particularly in the data science profession. For that reason, it's essential that you hone your Python skills for your future career. 
 
 In this program, you will be programming in Python 3. This is the latest version of the language and the one you'd be most likely to use on the job. However, Python 2 is still used, and it's not always compatible with Python 3! You don't need to understand all [the details](https://wiki.python.org/moin/Python2orPython3) of this incompatibility right now. But you should know this: if you're ever executing code that you found online and it's not working properly, the problem could be that the code was written for Python 2. Before troubleshooting anything else, check whether the code was written for Python 2 or Python 3.
-
     
 ## Standard library functions
-A feature of modern programming languages is an extensive library of standard functions. This means that we can make use of standard, well-tested and optimised functions
-for performing common tasks rather than writing our own. This makes our programs shorter and of higher quality, and in most cases faster.
+A feature of modern programming languages is a library of standard functions. This allows users to work with a set of standard, well-tested and optimised functions for performing common tasks rather than writing our own. This makes our programs shorter and of higher quality, and in most cases faster.
 
 Python has a substantial [standard library](https://docs.python.org/3/library/). To organise it, most functionality is arranged into 'modules', with each module providing a range of related functions. Before you program a function, check if there is a library function that can perform the task. The Python standard library is documented at https://docs.python.org/3/library/.
 Search engines are a good way to find library functions, e.g. entering "Is there a Python function to compute the hyperbolic tangent of a complex number" into a search engine will take you to the function `cmath.tanh`. Try this link: http://bfy.tw/7aMc.
@@ -84,6 +82,6 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDM5NjU2ODksMTY0MDYwODE3OSwtMj
-A1OTMyOTY5MCwtMTkzMTAxNDI3NV19
+eyJoaXN0b3J5IjpbMjAzNzgwNTMzMSwtMTM0Mzk2NTY4OSwxNj
+QwNjA4MTc5LC0yMDU5MzI5NjkwLC0xOTMxMDE0Mjc1XX0=
 -->
