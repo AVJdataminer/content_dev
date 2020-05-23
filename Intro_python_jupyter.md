@@ -40,8 +40,9 @@ IPython is a library that provides a rich toolkit to help users work with Python
 -   A kernel for  [Jupyter](https://jupyter.org/).
 -   Support for interactive data visualization and use of  [GUI toolkits](https://ipython.org/ipython-doc/stable/interactive/reference.html#gui-event-loop-support).
 -   Flexible,  [embeddable](https://ipython.org/ipython-doc/stable/interactive/reference.html#embedding-ipython)  interpreters to load into your own projects.
--   Easy to use, high performance tools for  [parallel computing](https://ipyparallel.readthedocs.io/en/latest/).
-
+-   Easy to use, high performance tools for  [parallel computing](https://ipyparallel.readthedocs.io/en/latest/).  
+- 
+The *kernel for Jupyter* is what provides our interactive Python programming en
 ## Jupyter notebooks
 We will be computing using Jupyter notebooks (http://jupyter.org/) and 
 the programming language *Python* (https://www.python.org/).
@@ -77,7 +78,7 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTM4MzI1NTQsMTQ4MTY3MTA4LC0xNT
+eyJoaXN0b3J5IjpbLTIxNDY0OTk1ODMsMTQ4MTY3MTA4LC0xNT
 k1MDUzMDA3LC0xNjUyOTY5MjMwLC0yMDA4MDk2Mjc5LDc2MDk2
 MjYyNywxMTczMDAxMDc4LC0xMzQzOTY1Njg5LDE2NDA2MDgxNz
 ksLTIwNTkzMjk2OTAsLTE5MzEwMTQyNzVdfQ==
