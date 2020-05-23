@@ -29,9 +29,8 @@ Python has a substantial [standard library](https://docs.python.org/3/library/) 
  The list above is a tiny sampling of the functions available in the `math` module and there are many more modules as well in the standard Python library. It is good to familiarize yourself with the functions available, spend some time reviewing the documentation and using the base Python functions.
  
 ## Other libraries - Modules and Packages
- As we mentioned earlier because Python is Open-Source and has a large and ever-growing user base there are thousands of libraries that have been developed and contributed to the community of Python users like you. 
-Altho standard library functions are general purpose and will be available in any Python environment.
-Specialised tools are usually made available in other libraries (modules). The is a huge range of Python libraries available for specialised problems. We have already used some parts
+ As we mentioned earlier because Python is Open-Source and has a large and ever-growing user base there are thousands of libraries that have been developed and contributed to the community of Python users like you. These 
+Although the standard library functions are general purpose and available in any Python environment more specialised tools are usually made available in other libraries (modules). The is a huge range of Python libraries available for specialised problems. We have already used some parts
 of NumPy (http://www.numpy.org/), which is specialised library for numerical computation. 
 It provides much the same functionality as MATLAB. 
 
@@ -93,8 +92,8 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjExODA5MCwtMTY1Mjk2OTIzMCwtMj
-AwODA5NjI3OSw3NjA5NjI2MjcsMTE3MzAwMTA3OCwtMTM0Mzk2
-NTY4OSwxNjQwNjA4MTc5LC0yMDU5MzI5NjkwLC0xOTMxMDE0Mj
-c1XX0=
+eyJoaXN0b3J5IjpbLTE5OTUyNzQ4NTIsLTE2NTI5NjkyMzAsLT
+IwMDgwOTYyNzksNzYwOTYyNjI3LDExNzMwMDEwNzgsLTEzNDM5
+NjU2ODksMTY0MDYwODE3OSwtMjA1OTMyOTY5MCwtMTkzMTAxND
+I3NV19
 -->
