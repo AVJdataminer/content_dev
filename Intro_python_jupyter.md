@@ -44,7 +44,9 @@ IPython is a library that provides a rich toolkit to help users work with Python
 - 
 The *kernel for Jupyter* is what provides the interactive Python programming environment we use in this course **Jupyter Notebooks**.  
 ## Jupyter notebooks
- [Jupyter notebooks](http://jupyter.org/)  provide an interactive environment where you can mix text, equations, computer code and visual outputs. This is new technology is becoYou can run Jupyter and Python locally on your own computer. The _Anaconda_ environment is recommended. It is free and available at [https://www.continuum.io/downloads](https://www.continuum.io/downloads). Make sure you select the Python 3 version.
+ [Jupyter notebooks](http://jupyter.org/)  provide an interactive environment where you can mix text, equations, computer code and visual outputs. This is relatively new technology is becoming the standard in data analytics and data science for project development work. 
+ 
+ You can run Jupyter and Python locally on your own computer. The _Anaconda_ environment is recommended. It is free and available at [https://www.continuum.io/downloads](https://www.continuum.io/downloads). Make sure you select the Python 3 version.
    + Jupyter lab
    + 
 ## kernels
@@ -76,7 +78,7 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNDg0NzEyMSwxNDgxNjcxMDgsLTE1OT
+eyJoaXN0b3J5IjpbMTI0Mjc5ODAzOSwxNDgxNjcxMDgsLTE1OT
 UwNTMwMDcsLTE2NTI5NjkyMzAsLTIwMDgwOTYyNzksNzYwOTYy
 NjI3LDExNzMwMDEwNzgsLTEzNDM5NjU2ODksMTY0MDYwODE3OS
 wtMjA1OTMyOTY5MCwtMTkzMTAxNDI3NV19
