@@ -29,15 +29,18 @@ The Python language is distributed with a multitude of prebuilt functions that s
 ## Modules - what are they
     
 ## Interactive python
+Python modules that allow for user feedback 
     
 ## Jupyter notebooks
-    
+   + Jupyter lab
 ## kernels
+    ### what they are
+    ### examples
     
 ## troubleshooting notebooks
     
 ## Magic Jupyter Functions
-
+#let's learn some cool stuff
 ## Welcome to Jupyter
 
 Below, you'll see a Jupyter Notebook that has been embedded in the curriculum app. Broadly speaking, Jupyter Notebooks provide an interactive development environment that allows you to create and share code, data, equations, and other technical and nontechnical material. You'll use Jupyter Notebooks in many checkpoints in this program.
@@ -58,3 +61,6 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTIzNjkyMzEwXX0=
+-->
