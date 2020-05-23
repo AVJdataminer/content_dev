@@ -26,10 +26,10 @@ Python has a substantial [standard library](https://docs.python.org/3/library/) 
  -  `math.cosine()`
  -  `math.pi()`
 
- The list above is a sampling of the functions available in the `math` module and there are many more modules as well in the standard python library. It is good to familiarize yourself with the functions 
+ The list above is a tiny sampling of the functions available in the `math` module and there are many more modules as well in the standard python library. It is good to familiarize yourself with the functions available, spend some time reviewing the documentation and using the base Python functions.
+ 
  Before you program a function, check if there is a library function that can perform the task. 
-Search engines are a good way to find library functions, e.g. entering "Is there a Python function to compute the hyperbolic tangent of a complex number" into a search engine will take you to the function `cmath.tanh`. Try this link: http://bfy.tw/7aMc.
-
+Search engines are a good way to find library functions, e.g. entering "Is there a Python function to compute the hyperbolic tangent 
 ## Other libraries - Modules and Packages
 
 The standard library tools are general purpose and will be available in any Python environment.
@@ -92,8 +92,8 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyMTM3MDIzLC0xNjUyOTY5MjMwLC0yMD
-A4MDk2Mjc5LDc2MDk2MjYyNywxMTczMDAxMDc4LC0xMzQzOTY1
-Njg5LDE2NDA2MDgxNzksLTIwNTkzMjk2OTAsLTE5MzEwMTQyNz
-VdfQ==
+eyJoaXN0b3J5IjpbLTEwNDk4MDIwMzgsLTE2NTI5NjkyMzAsLT
+IwMDgwOTYyNzksNzYwOTYyNjI3LDExNzMwMDEwNzgsLTEzNDM5
+NjU2ODksMTY0MDYwODE3OSwtMjA1OTMyOTY5MCwtMTkzMTAxND
+I3NV19
 -->
