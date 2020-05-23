@@ -15,8 +15,8 @@ Developed in the late 1980s, Python [has exploded](https://www.economist.com/gra
 
 In this program, you will be programming in Python 3. This is the latest version of the language and the one you'd be most likely to use on the job. However, Python 2 is still used, and it's not always compatible with Python 3! You don't need to understand all [the details](https://wiki.python.org/moin/Python2orPython3) of this incompatibility right now. But you should know this: if you're ever executing code that you found online and it's not working properly, the problem could be that the code was written for Python 2. Before troubleshooting anything else, check whether the code was written for Python 2 or Python 3.
     
-## Standard library functions
-A feature of modern programming languages is a library of standard functions. This allows users to work with a set of standard, well-tested and optimised functions for performing common tasks rather than writing our own. The use of  libraries results in more efficient programs written in less time.
+## The Python Standard Library functions
+A feature of modern programming languages is a library of standard functions built-in. This allows users to work with a set of standard, well-tested and optimised functions for performing common tasks rather than writing our own. The use of  libraries results in more efficient programs written in less time.
 
 Python has a substantial [standard library](https://docs.python.org/3/library/) where a slue of pre-built functions are available for use upon installation. An example of a function provided in the standard library is `type()` this function returns the data type of the input object to the user. Functions with similar purposes are organized into *Modules*. For example the Standard Python Library contains the [`math`](https://docs.python.org/3/library/math.html#module-math "math: Mathematical functions (sin() etc.).") module which contains the following types of mathematical functions and constants:
 
@@ -42,8 +42,7 @@ IPython is a library that provides a rich toolkit to help users work with Python
 -   Flexible,  [embeddable](https://ipython.org/ipython-doc/stable/interactive/reference.html#embedding-ipython)  interpreters to load into your own projects.
 -   Easy to use, high performance tools for  [parallel computing](https://ipyparallel.readthedocs.io/en/latest/).  
 - 
-The *kernel for Jupyter* is what provides the interactive Python programming environment we use in this course **Jupyter Notebooks**. 
-
+The *kernel for Jupyter* is what provides the interactive Python programming environment we use in this course **Jupyter Notebooks**.  
 ## Jupyter notebooks
 We will be computing using [Jupyter notebooks](http://jupyter.org/)  provide an interactive environment where you can mix text, equations, computer code and visual outputs. This is new technology that is increasingly widely used, and it is all free and open-source. You can run Jupyter and Python locally on your own computer. The _Anaconda_ environment is recommended. It is free and available at [https://www.continuum.io/downloads](https://www.continuum.io/downloads). Make sure you select the Python 3 version.
    + Jupyter lab
@@ -77,8 +76,8 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTY0MzQ4MjQsMTQ4MTY3MTA4LC0xNT
-k1MDUzMDA3LC0xNjUyOTY5MjMwLC0yMDA4MDk2Mjc5LDc2MDk2
-MjYyNywxMTczMDAxMDc4LC0xMzQzOTY1Njg5LDE2NDA2MDgxNz
-ksLTIwNTkzMjk2OTAsLTE5MzEwMTQyNzVdfQ==
+eyJoaXN0b3J5IjpbMTYyMjE4Mjk0NSwxNDgxNjcxMDgsLTE1OT
+UwNTMwMDcsLTE2NTI5NjkyMzAsLTIwMDgwOTYyNzksNzYwOTYy
+NjI3LDExNzMwMDEwNzgsLTEzNDM5NjU2ODksMTY0MDYwODE3OS
+wtMjA1OTMyOTY5MCwtMTkzMTAxNDI3NV19
 -->
