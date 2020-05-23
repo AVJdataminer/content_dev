@@ -26,13 +26,11 @@ Python has a substantial [standard library](https://docs.python.org/3/library/) 
  -  `math.cosine()`
  -  `math.pi()`
 
- The list above is a tiny sampling of the functions available in the `math` module and there are many more modules as well in the standard python library. It is good to familiarize yourself with the functions available, spend some time reviewing the documentation and using the base Python functions.
+ The list above is a tiny sampling of the functions available in the `math` module and there are many more modules as well in the standard Python library. It is good to familiarize yourself with the functions available, spend some time reviewing the documentation and using the base Python functions.
  
- Before you program a function, check if there is a library function that can perform the task. 
-Search engines are a good way to find library functions, e.g. entering "Is there a Python function to compute the hyperbolic tangent 
 ## Other libraries - Modules and Packages
 
-The standard library tools are general purpose and will be available in any Python environment.
+The standard library functions are general purpose and will be available in any Python environment.
 Specialised tools are usually made available in other libraries (modules). The is a huge range of Python libraries available for specialised problems. We have already used some parts
 of NumPy (http://www.numpy.org/), which is specialised library for numerical computation. 
 It provides much the same functionality as MATLAB. 
@@ -51,6 +49,9 @@ You will see `pip` being used in some later notebooks to install special-purpose
 When developing programs outside of learning exercises,
 if there is a no standard library module for a problem you are trying to solve, 
 search online for a module before implementing your own.
+
+ Before you program a function, check if there is a library function that can perform the task. 
+Search engines are a good way to find library functions, e.g. entering "Is there a Python function to compute the hyperbolic tangent 
 ## Modules - what are they
    Python's large and ever-growing user base has also developed and contributed to thousands of libraries, which are available to Python users like you. These libraries can help with many programming tasks. No matter what your program's objective is, the chances are high that there's a "package" for that!
    
@@ -92,8 +93,8 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDk4MDIwMzgsLTE2NTI5NjkyMzAsLT
-IwMDgwOTYyNzksNzYwOTYyNjI3LDExNzMwMDEwNzgsLTEzNDM5
-NjU2ODksMTY0MDYwODE3OSwtMjA1OTMyOTY5MCwtMTkzMTAxND
-I3NV19
+eyJoaXN0b3J5IjpbLTU1MzUwMzU1NiwtMTY1Mjk2OTIzMCwtMj
+AwODA5NjI3OSw3NjA5NjI2MjcsMTE3MzAwMTA3OCwtMTM0Mzk2
+NTY4OSwxNjQwNjA4MTc5LC0yMDU5MzI5NjkwLC0xOTMxMDE0Mj
+c1XX0=
 -->
