@@ -33,16 +33,6 @@ for performing common tasks rather than writing our own. This makes our programs
 
 
 
-## Objectives
-
-- Introduce use of standard library functions
-- Importing and using modules
-- Introduction to namespaces
-- Print formatting of floats
-
-# The standard library
-
-You have already used some standard library types and functions. In previous activities we have used built-in types like `string` and `float`, and the function `abs` for absolute value. We have made use of the standard library function `print` to display to the screen.
 
 Python has a large standard library. To organise it, most functionality is arranged into 'modules', with each module providing a range of related functions. Before you program a function, check if there is a library function that can perform the task. The Python standard library is documented at https://docs.python.org/3/library/.
 Search engines are a good way to find library functions, e.g. entering "Is there a Python function to compute the hyperbolic tangent of a complex number" into a search engine will take you to the function `cmath.tanh`. Try this link: http://bfy.tw/7aMc.
@@ -108,6 +98,6 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDU3MDMyMzgsMTY0MDYwODE3OSwtMj
-A1OTMyOTY5MCwtMTkzMTAxNDI3NV19
+eyJoaXN0b3J5IjpbMTM2NjgyMTAyLDE2NDA2MDgxNzksLTIwNT
+kzMjk2OTAsLTE5MzEwMTQyNzVdfQ==
 -->
