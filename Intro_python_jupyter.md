@@ -29,7 +29,7 @@ Python has a substantial [standard library](https://docs.python.org/3/library/) 
  The list above is a tiny sampling of the functions available in the `math` module and there are many more modules as well in the standard Python library. It is good to familiarize yourself with the functions available, spend some time reviewing the documentation and using the base Python functions.
  
 ## Other libraries - Modules and Packages
- APython's large and ever-growing user base has also developed and contributed to thousands of libraries, which are available to Python users like you. These libraries can help with many programming tasks. No matter what your program's objective is, the chances are high that there's a "package" for that!
+ As we mentioned earlier because Python is Open-Source and has a large and ever-growing user base there are thousands of libraries that have ben developed and contributed to the co, which are available to Python users like you. These libraries can help with many programming tasks. No matter what your program's objective is, the chances are high that there's a "package" for that!
 
 The standard library functions are general purpose and will be available in any Python environment.
 Specialised tools are usually made available in other libraries (modules). The is a huge range of Python libraries available for specialised problems. We have already used some parts
@@ -94,8 +94,8 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTA2ODQ0NzEsLTE2NTI5NjkyMzAsLT
-IwMDgwOTYyNzksNzYwOTYyNjI3LDExNzMwMDEwNzgsLTEzNDM5
-NjU2ODksMTY0MDYwODE3OSwtMjA1OTMyOTY5MCwtMTkzMTAxND
-I3NV19
+eyJoaXN0b3J5IjpbNDUxNzc1NzE5LC0xNjUyOTY5MjMwLC0yMD
+A4MDk2Mjc5LDc2MDk2MjYyNywxMTczMDAxMDc4LC0xMzQzOTY1
+Njg5LDE2NDA2MDgxNzksLTIwNTkzMjk2OTAsLTE5MzEwMTQyNz
+VdfQ==
 -->
