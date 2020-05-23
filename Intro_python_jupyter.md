@@ -16,7 +16,7 @@ Developed in the late 1980s, Python [has exploded](https://www.economist.com/gra
 In this program, you will be programming in Python 3. This is the latest version of the language and the one you'd be most likely to use on the job. However, Python 2 is still used, and it's not always compatible with Python 3! You don't need to understand all [the details](https://wiki.python.org/moin/Python2orPython3) of this incompatibility right now. But you should know this: if you're ever executing code that you found online and it's not working properly, the problem could be that the code was written for Python 2. Before troubleshooting anything else, check whether the code was written for Python 2 or Python 3.
     
 ## Standard library functions
-A feature of modern programming languages is a library of standard functions. This allows users to work with a set of standard, well-tested and optimised functions for performing common tasks rather than writing our own. The use of  libraries often results in more efficient and  writing shorter, higher quality, and often faster programs.
+A feature of modern programming languages is a library of standard functions. This allows users to work with a set of standard, well-tested and optimised functions for performing common tasks rather than writing our own. The use of  libraries results in more efficient programs written in less time.
 
 Python has a substantial [standard library](https://docs.python.org/3/library/). To organise it, most functionality is arranged into 'modules', with each module providing a range of related functions. Before you program a function, check if there is a library function that can perform the task. The Python standard library is documented at https://docs.python.org/3/library/.
 Search engines are a good way to find library functions, e.g. entering "Is there a Python function to compute the hyperbolic tangent of a complex number" into a search engine will take you to the function `cmath.tanh`. Try this link: http://bfy.tw/7aMc.
@@ -83,7 +83,7 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTI4MjczOCwtMjAwODA5NjI3OSw3Nj
+eyJoaXN0b3J5IjpbMjAwMzUyNzQyNCwtMjAwODA5NjI3OSw3Nj
 A5NjI2MjcsMTE3MzAwMTA3OCwtMTM0Mzk2NTY4OSwxNjQwNjA4
 MTc5LC0yMDU5MzI5NjkwLC0xOTMxMDE0Mjc1XX0=
 -->
