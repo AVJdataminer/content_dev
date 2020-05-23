@@ -34,8 +34,7 @@ Python modules that allow for user feedback
 ## Jupyter notebooks
 We will be computing using Jupyter notebooks (http://jupyter.org/) and 
 the programming language *Python* (https://www.python.org/).
-Jupyter notebooks provide an interactive environment where you can mix text, equations, computer code
-and visual outputs. This is new technology that is increasingly widely used, and it is all free and open-source.
+Jupyter notebooks provide an interactive environment where you can mix text, equations, computer code and visual outputs. This is new technology that is increasingly widely used, and it is all free and open-source. You can run Jupyter and Python locally on your own computer. The _Anaconda_ environment is recommended. It is free and available at [https://www.continuum.io/downloads](https://www.continuum.io/downloads). Make sure you select the Python 3 version.
    + Jupyter lab
    + 
 ## kernels
@@ -67,5 +66,6 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwODY1OTY0MiwtMTkzMTAxNDI3NV19
+eyJoaXN0b3J5IjpbLTIwNTkzMjk2OTAsLTE5MzEwMTQyNzVdfQ
+==
 -->
