@@ -23,7 +23,15 @@ At the end of this checkpoint, you'll modify and save a Jupyter Notebook and sha
 
     
 ## Standard library functions
+A feature of modern programming languages is an extensive library of standard functions. This means that we can make use of standard, well-tested and optimised functions
+for performing common tasks rather than writing our own. This makes our programs shorter and of higher quality, and in most cases faster.
+
 The Python language is distributed with a multitude of prebuilt functions that support its usability. You can read more about the available functions in the [Official Python Standard Library](https://docs.python.org/3/library/). 
+
+You have already used some standard library types and functions. In previous activities we have used built-in types like `string` and `float`, and the function `abs` for absolute value. We have made use of the standard library function `print` to display to the screen.
+
+Python has a large standard library. To organise it, most functionality is arranged into 'modules', with each module providing a range of related functions. Before you program a function, check if there is a library function that can perform the task. The Python standard library is documented at https://docs.python.org/3/library/.
+Search engines are a good way to find library functions, e.g. entering "Is there a Python function to compute the hyperbolic tangent of a complex number" into a search engine will take you to the function `cmath.tanh`. Try this link: http://bfy.tw/7aMc.
 
 
 ## Modules - what are they
@@ -66,6 +74,6 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTkzMjk2OTAsLTE5MzEwMTQyNzVdfQ
-==
+eyJoaXN0b3J5IjpbLTEwODM3OTY3MywtMjA1OTMyOTY5MCwtMT
+kzMTAxNDI3NV19
 -->
