@@ -33,6 +33,7 @@ Python modules that allow for user feedback
     
 ## Jupyter notebooks
    + Jupyter lab
+   + 
 ## kernels
     ### what they are
     ### examples
@@ -62,5 +63,5 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIzNjkyMzEwXX0=
+eyJoaXN0b3J5IjpbLTE5MzEwMTQyNzVdfQ==
 -->
