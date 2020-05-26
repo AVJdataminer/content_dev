@@ -16,8 +16,8 @@ pip list | grep <module_name_you_want_to_check>
 -   Importing and using modules
  
 
--   Dependencies
--Some packages will have dep
+### Dependencies
+Some packages will have dependencies, i.e. other modules they depend on in order to run properly. You can check the dependencies of a package using the `pip show` command. 
     
 -   Module loading errors
 
@@ -38,5 +38,5 @@ Mainly, you need to recognize objects when you see them and know how to interact
 
 <jupyter notebook-name="working_with_objects_modules_libraries" course-code="DSBC"></jupyter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTQzNDM2Ml19
+eyJoaXN0b3J5IjpbLTEyNzQ2NDg5MDRdfQ==
 -->
