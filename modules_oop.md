@@ -17,6 +17,7 @@ pip list | grep <module_name_you_want_to_check>
  
 
 -   Dependencies
+-Some packages will have dep
     
 -   Module loading errors
 
@@ -37,5 +38,5 @@ Mainly, you need to recognize objects when you see them and know how to interact
 
 <jupyter notebook-name="working_with_objects_modules_libraries" course-code="DSBC"></jupyter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjgxNTA0M119
+eyJoaXN0b3J5IjpbLTMyNTQzNDM2Ml19
 -->
