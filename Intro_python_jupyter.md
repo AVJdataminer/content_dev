@@ -51,13 +51,15 @@ The *kernel for Jupyter* is what provides the interactive Python programming env
 ## Troubleshooting notebooks
 The most common problem you will encouter with Jupyter notebooks is a disconnect from the back end server, the fix is to reload the page. If your notebook does not return the expected results based on your code, double check your code and if you still don't see the problem reload the kernel.  Remember that all the code is dependent on the current kernel, therefore you must run all the previous cells in your notebook for the current one to run properly. Everytime you re-open your notebook you're creating a new kernel connection and must run all the preceding cells to work on a later cell in your notebook. Think of it as a top to bottom operation where sequential cells are executed in order.
 
-## Have you seen my kernel
+## Have you seen my kernel ?
+If you see this error simply click the orange button and you should be good to go.
+![JupyterLab Error] ()
     
 ## Magic Jupyter Functions
 #let's learn some cool stuff
 ## Welcome to Jupyter
 
-Below, you'll see a Jupyter Notebook that has been embedded in the curriculum app. Broadly speaking, Jupyter Notebooks provide an interactive development environment that allows you to create and share code, data, equations, and other technical and nontechnical material. You'll use Jupyter Notebooks in many checkpoints in this program.
+Below, you'll see a Jupyter Notebook that has been embedded in the curriculum app.  You'll use Jupyter Notebooks in many checkpoints in this program.
 
 Jupyter Notebooks are cloud-based, so you can't save files directly to your computer. Instead, you will download them and then upload them to another service. The next checkpoint will discuss those details—for now, just buckle up and enjoy your journey to Jupyter!
 
@@ -76,9 +78,9 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyMzMwMDM5LC0xNDQ1Mzg3NSw5MTkyNT
-g0NjIsNDI1MjIzOTA5LC01ODEwNjc0OTksMTQ4MTY3MTA4LC0x
-NTk1MDUzMDA3LC0xNjUyOTY5MjMwLC0yMDA4MDk2Mjc5LDc2MD
-k2MjYyNywxMTczMDAxMDc4LC0xMzQzOTY1Njg5LDE2NDA2MDgx
-NzksLTIwNTkzMjk2OTAsLTE5MzEwMTQyNzVdfQ==
+eyJoaXN0b3J5IjpbMTY0MjUyMDM3NywtMTQ0NTM4NzUsOTE5Mj
+U4NDYyLDQyNTIyMzkwOSwtNTgxMDY3NDk5LDE0ODE2NzEwOCwt
+MTU5NTA1MzAwNywtMTY1Mjk2OTIzMCwtMjAwODA5NjI3OSw3Nj
+A5NjI2MjcsMTE3MzAwMTA3OCwtMTM0Mzk2NTY4OSwxNjQwNjA4
+MTc5LC0yMDU5MzI5NjkwLC0xOTMxMDE0Mjc1XX0=
 -->
