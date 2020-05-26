@@ -42,7 +42,7 @@ IPython is a library that provides a rich toolkit to help users work with Python
 -   Flexible,  [embeddable](https://ipython.org/ipython-doc/stable/interactive/reference.html#embedding-ipython)  interpreters to load into your own projects.
 -   Easy to use, high performance tools for  [parallel computing](https://ipyparallel.readthedocs.io/en/latest/).  
 - 
-The *kernel for Jupyter* is what provides the interactive Python programming environment we use in this course **Jupyter Notebooks**.   A kernel in computer science is the core of the  operating system that allows communication between the user in software applications and the hardware components. In data science working in kernels
+The *kernel for Jupyter* is what provides the interactive Python programming environment we use in this course **Jupyter Notebooks**.   A kernel in computer science is the core of the  operating system that allows communication between the user in software applications and the hardware components. In data science kernels have a front-end user side that allows for your programming to be written and pased to the back end host side th
 
 
 ## Jupyter notebooks
@@ -79,9 +79,9 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDgxMTMxMTQsNDI1MjIzOTA5LC01OD
-EwNjc0OTksMTQ4MTY3MTA4LC0xNTk1MDUzMDA3LC0xNjUyOTY5
-MjMwLC0yMDA4MDk2Mjc5LDc2MDk2MjYyNywxMTczMDAxMDc4LC
-0xMzQzOTY1Njg5LDE2NDA2MDgxNzksLTIwNTkzMjk2OTAsLTE5
-MzEwMTQyNzVdfQ==
+eyJoaXN0b3J5IjpbODg0MDcwMzE0LDQyNTIyMzkwOSwtNTgxMD
+Y3NDk5LDE0ODE2NzEwOCwtMTU5NTA1MzAwNywtMTY1Mjk2OTIz
+MCwtMjAwODA5NjI3OSw3NjA5NjI2MjcsMTE3MzAwMTA3OCwtMT
+M0Mzk2NTY4OSwxNjQwNjA4MTc5LC0yMDU5MzI5NjkwLC0xOTMx
+MDE0Mjc1XX0=
 -->
