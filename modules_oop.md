@@ -6,7 +6,10 @@ time: 120 minutes
 uuid: 186cc634-f4ac-4ead-8502-90eb3357e4c2
 timeHours: 2
 ---
+## Working with Modules
 
+
+## Objects
 It's time to talk about something you've been using every time you write Python, but that you may not have been thinking about: objects.
 
 You've been using objects all along because _everything in Python_ is an object. 
@@ -22,3 +25,6 @@ Objects and "object-oriented programming" are deep topics that cut to the core o
 Mainly, you need to recognize objects when you see them and know how to interact with them in your code. Let's practice in the below notebook.
 
 <jupyter notebook-name="working_with_objects_modules_libraries" course-code="DSBC"></jupyter>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQ0Mjg1NjQxOF19
+-->
