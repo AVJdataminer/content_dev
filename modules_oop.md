@@ -7,7 +7,13 @@ uuid: 186cc634-f4ac-4ead-8502-90eb3357e4c2
 timeHours: 2
 ---
 ## Working with Modules
+Knowing what modules are and working with them can be two different things all together. So, let
+-   Importing and using modules
+ 
 
+-   Dependencies
+    
+-   Module loading errors
 
 ## Objects
 It's time to talk about something you've been using every time you write Python, but that you may not have been thinking about: objects.
@@ -26,5 +32,5 @@ Mainly, you need to recognize objects when you see them and know how to interact
 
 <jupyter notebook-name="working_with_objects_modules_libraries" course-code="DSBC"></jupyter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0Mjg1NjQxOF19
+eyJoaXN0b3J5IjpbLTE2NjI2Nzc2NzFdfQ==
 -->
