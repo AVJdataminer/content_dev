@@ -46,11 +46,10 @@ IPython is a library that provides a rich toolkit to help users work with Python
 The *kernel for Jupyter* is what provides the interactive Python programming environment we use in this course **Jupyter Notebooks**.   A kernel in computer science is the core of the  operating system that allows communication between the user in software applications and the hardware components. In data science kernels have a front-end user side that allows for your programming to be written and pased to the back end host side through this connection. In addition to Jupyter Notebooks you will see the term for running kernels on [Kaggle](https://www.kaggle.com/notebooks) when you open a new notebook to view or compete in data science competitions.
 
 ## Jupyter notebooks
- [Jupyter notebooks](http://jupyter.org/)  provide an interactive environment where you can mix text, equations, computer code and visual outputs. The flexibility of this tool has led to it  becoming the standard in data analytics and data science for project development work.  Check out the latest development of Jupyter notebboks, with more functionality Jupyter Labs works in the same way as Jupyter notebooks by creating a connection for user to run code and generate interactive results.
- 
-
+ [Jupyter notebooks](http://jupyter.org/)  provide an interactive environment where you can mix text, equations, computer code and visual outputs. The flexibility of this tool has led to it  becoming the standard in data analytics and data science for project development work.  Check out the latest development of Jupyter notebboks, with more functionality [Jupyter Labs](https://jupyter.org/) works in the same way as Jupyter notebooks by creating a connection for user to run code and generate interactive results.
     
-## troubleshooting notebooks
+## Troubleshooting notebooks
+The most common problem you will encouter with Jupyter notebooks is a disconnect t
     
 ## Magic Jupyter Functions
 #let's learn some cool stuff
@@ -75,9 +74,9 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTcwMDM4OSw5MTkyNTg0NjIsNDI1Mj
-IzOTA5LC01ODEwNjc0OTksMTQ4MTY3MTA4LC0xNTk1MDUzMDA3
-LC0xNjUyOTY5MjMwLC0yMDA4MDk2Mjc5LDc2MDk2MjYyNywxMT
-czMDAxMDc4LC0xMzQzOTY1Njg5LDE2NDA2MDgxNzksLTIwNTkz
-Mjk2OTAsLTE5MzEwMTQyNzVdfQ==
+eyJoaXN0b3J5IjpbNjg1NjkwNjkzLDkxOTI1ODQ2Miw0MjUyMj
+M5MDksLTU4MTA2NzQ5OSwxNDgxNjcxMDgsLTE1OTUwNTMwMDcs
+LTE2NTI5NjkyMzAsLTIwMDgwOTYyNzksNzYwOTYyNjI3LDExNz
+MwMDEwNzgsLTEzNDM5NjU2ODksMTY0MDYwODE3OSwtMjA1OTMy
+OTY5MCwtMTkzMTAxNDI3NV19
 -->
