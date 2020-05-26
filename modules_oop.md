@@ -12,10 +12,10 @@ Knowing what modules are and working with them can be two different things all t
 Check to see if the module you would like is installed. `
 pip list | grep <module_name_you_want_to_check>
 ` If you installed Python using Anaconda many common packages you will want to use such as Numpy will already be installed. You can get the entire list of modules installed in your current Python environment using `pip list`. 
-### Installing Modules
+### Installing modules
+Let's say you wanted to install the 
 
-
--   Importing and using modules
+### Loading modules
  
 
 ### Dependencies
@@ -40,5 +40,5 @@ Mainly, you need to recognize objects when you see them and know how to interact
 
 <jupyter notebook-name="working_with_objects_modules_libraries" course-code="DSBC"></jupyter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDAwODcxXX0=
+eyJoaXN0b3J5IjpbNTY5MjYzMDQ0XX0=
 -->
