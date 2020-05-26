@@ -49,8 +49,7 @@ The *kernel for Jupyter* is what provides the interactive Python programming env
  [Jupyter notebooks](http://jupyter.org/)  provide an interactive environment where you can mix text, equations, computer code and visual outputs. The flexibility of this tool has led to it  becoming the standard in data analytics and data science for project development work.  Check out the latest development of Jupyter notebboks, with more functionality [Jupyter Labs](https://jupyter.org/) works in the same way as Jupyter notebooks by creating a connection for user to run code and generate interactive results.
     
 ## Troubleshooting notebooks
-The most common problem you will encouter with Jupyter notebooks is a disconnect from the backend server, the fix is to simply reload the page. 
-Also, it does occur occasionally your notebook may not return the expected results based on your code. Remember that all the code is dependent therefore you must run all the previous cells in your notebook for the current one to run properly. Everytime you re-open your notebook you're creating a new kernel connection and must run a
+The most common problem you will encouter with Jupyter notebooks is a disconnect from the backend server, the fix is to simply reload the page. If your notebook does not return the expected results based on your code, double check your code and if you still don't see the problem re-load the kernel.  Remember that all the code is dependent on prior cells therefore you must run all the previous cells in your notebook for the current one to run properly. Everytime you re-open your notebook you're creating a new kernel connection and must run all the preceding cells to work on a later cell in your notebook.
     
 ## Magic Jupyter Functions
 #let's learn some cool stuff
@@ -75,7 +74,7 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTA1OTcxMTcsOTE5MjU4NDYyLDQyNT
+eyJoaXN0b3J5IjpbLTE5NDQzOTY0MzMsOTE5MjU4NDYyLDQyNT
 IyMzkwOSwtNTgxMDY3NDk5LDE0ODE2NzEwOCwtMTU5NTA1MzAw
 NywtMTY1Mjk2OTIzMCwtMjAwODA5NjI3OSw3NjA5NjI2MjcsMT
 E3MzAwMTA3OCwtMTM0Mzk2NTY4OSwxNjQwNjA4MTc5LC0yMDU5
