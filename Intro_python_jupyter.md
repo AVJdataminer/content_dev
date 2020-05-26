@@ -49,7 +49,7 @@ The *kernel for Jupyter* is what provides the interactive Python programming env
  [Jupyter notebooks](http://jupyter.org/)  provide an interactive environment where you can mix text, equations, computer code and visual outputs. The flexibility of this tool has led to it  becoming the standard in data analytics and data science for project development work.  Check out the latest development of Jupyter notebboks, with more functionality [Jupyter Labs](https://jupyter.org/) works in the same way as Jupyter notebooks by creating a connection for user to run code and generate interactive results.
     
 ## Troubleshooting notebooks
-The most common problem you will encouter with Jupyter notebooks is a disconnect from the backend server, the fix is to simply reload the page. If your notebook does not return the expected results based on your code, double check your code and if you still don't see the problem re-load the kernel.  Remember that all the code is dependent on prior cells therefore you must run all the previous cells in your notebook for the current one to run properly. Everytime you re-open your notebook you're creating a new kernel connection and must run all the preceding cells to work on a later cell in your notebook.
+The most common problem you will encouter with Jupyter notebooks is a disconnect from the backend server, the fix is to simply reload the page. If your notebook does not return the expected results based on your code, double check your code and if you still don't see the problem re-load the kernel.  Remember that all the code is dependent on the current kernel, therefore you must run all the previous cells in your notebook for the current one to run properly. Everytime you re-open your notebook you're creating a new kernel connection and must run all the preceding cells to work on a later cell in your notebook. Think of it as a top to bottom operation where sequential cells are executed in order.
     
 ## Magic Jupyter Functions
 #let's learn some cool stuff
@@ -74,9 +74,9 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDQzOTY0MzMsOTE5MjU4NDYyLDQyNT
-IyMzkwOSwtNTgxMDY3NDk5LDE0ODE2NzEwOCwtMTU5NTA1MzAw
-NywtMTY1Mjk2OTIzMCwtMjAwODA5NjI3OSw3NjA5NjI2MjcsMT
-E3MzAwMTA3OCwtMTM0Mzk2NTY4OSwxNjQwNjA4MTc5LC0yMDU5
-MzI5NjkwLC0xOTMxMDE0Mjc1XX0=
+eyJoaXN0b3J5IjpbLTE0NDUzODc1LDkxOTI1ODQ2Miw0MjUyMj
+M5MDksLTU4MTA2NzQ5OSwxNDgxNjcxMDgsLTE1OTUwNTMwMDcs
+LTE2NTI5NjkyMzAsLTIwMDgwOTYyNzksNzYwOTYyNjI3LDExNz
+MwMDEwNzgsLTEzNDM5NjU2ODksMTY0MDYwODE3OSwtMjA1OTMy
+OTY5MCwtMTkzMTAxNDI3NV19
 -->
