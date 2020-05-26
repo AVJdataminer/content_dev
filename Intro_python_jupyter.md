@@ -41,17 +41,15 @@ IPython is a library that provides a rich toolkit to help users work with Python
 -   Support for interactive data visualization and use of  [GUI toolkits](https://ipython.org/ipython-doc/stable/interactive/reference.html#gui-event-loop-support).
 -   Flexible,  [embeddable](https://ipython.org/ipython-doc/stable/interactive/reference.html#embedding-ipython)  interpreters to load into your own projects.
 -   Easy to use, high performance tools for  [parallel computing](https://ipyparallel.readthedocs.io/en/latest/).  
-- 
+
+## Kernels
 The *kernel for Jupyter* is what provides the interactive Python programming environment we use in this course **Jupyter Notebooks**.   A kernel in computer science is the core of the  operating system that allows communication between the user in software applications and the hardware components. In data science kernels have a front-end user side that allows for your programming to be written and pased to the back end host side through this connection. In addition to Jupyter Notebooks you will see the term for running kernels on [Kaggle](https://www.kaggle.com/notebooks) when you open a new notebook to view or compete in data science competitions.
 
 ## Jupyter notebooks
- [Jupyter notebooks](http://jupyter.org/)  provide an interactive environment where you can mix text, equations, computer code and visual outputs. This is relatively new technology is becoming the standard in data analytics and data science for project development work. 
+ [Jupyter notebooks](http://jupyter.org/)  provide an interactive environment where you can mix text, equations, computer code and visual outputs. The flexibility of this tool has led to it  becoming the standard in data analytics and data science for project development work. 
  
    + Jupyter lab
-   + 
-## kernels
-    ### what they are
-    ### examples
+
     
 ## troubleshooting notebooks
     
@@ -78,9 +76,9 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTE4NTM1Nyw5MTkyNTg0NjIsNDI1Mj
-IzOTA5LC01ODEwNjc0OTksMTQ4MTY3MTA4LC0xNTk1MDUzMDA3
-LC0xNjUyOTY5MjMwLC0yMDA4MDk2Mjc5LDc2MDk2MjYyNywxMT
-czMDAxMDc4LC0xMzQzOTY1Njg5LDE2NDA2MDgxNzksLTIwNTkz
-Mjk2OTAsLTE5MzEwMTQyNzVdfQ==
+eyJoaXN0b3J5IjpbLTEwNjEyODEzNDksOTE5MjU4NDYyLDQyNT
+IyMzkwOSwtNTgxMDY3NDk5LDE0ODE2NzEwOCwtMTU5NTA1MzAw
+NywtMTY1Mjk2OTIzMCwtMjAwODA5NjI3OSw3NjA5NjI2MjcsMT
+E3MzAwMTA3OCwtMTM0Mzk2NTY4OSwxNjQwNjA4MTc5LC0yMDU5
+MzI5NjkwLC0xOTMxMDE0Mjc1XX0=
 -->
