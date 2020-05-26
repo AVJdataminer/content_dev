@@ -15,6 +15,10 @@ pip list | grep <module_name_you_want_to_check>
 ### Installing modules
 Let's say you wanted to install the Geopandas module for working with spatial data in Python. There are three essential ways to install a package and the one you choose depends on your current Python management setup and preferrence. 
 
+ 1. If you use the conda package manager `conda install geopoandas`
+ 2. If you prefer pip `pip install geopandas`
+ 3. Finally if you'd like to unst
+
 ### Loading modules
  
 
@@ -40,5 +44,5 @@ Mainly, you need to recognize objects when you see them and know how to interact
 
 <jupyter notebook-name="working_with_objects_modules_libraries" course-code="DSBC"></jupyter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDU2NDMzMjQsNTY5MjYzMDQ0XX0=
+eyJoaXN0b3J5IjpbMjIxNjkwOTg2LDU2OTI2MzA0NF19
 -->
