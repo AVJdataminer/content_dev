@@ -50,7 +50,7 @@ The *kernel for Jupyter* is what provides the interactive Python programming env
     
 ## Troubleshooting notebooks
 The most common problem you will encouter with Jupyter notebooks is a disconnect from the backend server, the fix is to simply reload the page. 
-Also, it does occur occasionally your notebook may not return the expected results based on your code. Remember that all the code is dependent theref
+Also, it does occur occasionally your notebook may not return the expected results based on your code. Remember that all the code is dependent therefore you must run all the previous cells in your notebook for the current one to run properly. Everytime you re-open your notebook you're creating a new kernel connection and must run a
     
 ## Magic Jupyter Functions
 #let's learn some cool stuff
@@ -75,9 +75,9 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDcyNjc5Niw5MTkyNTg0NjIsNDI1Mj
-IzOTA5LC01ODEwNjc0OTksMTQ4MTY3MTA4LC0xNTk1MDUzMDA3
-LC0xNjUyOTY5MjMwLC0yMDA4MDk2Mjc5LDc2MDk2MjYyNywxMT
-czMDAxMDc4LC0xMzQzOTY1Njg5LDE2NDA2MDgxNzksLTIwNTkz
-Mjk2OTAsLTE5MzEwMTQyNzVdfQ==
+eyJoaXN0b3J5IjpbLTExMTA1OTcxMTcsOTE5MjU4NDYyLDQyNT
+IyMzkwOSwtNTgxMDY3NDk5LDE0ODE2NzEwOCwtMTU5NTA1MzAw
+NywtMTY1Mjk2OTIzMCwtMjAwODA5NjI3OSw3NjA5NjI2MjcsMT
+E3MzAwMTA3OCwtMTM0Mzk2NTY4OSwxNjQwNjA4MTc5LC0yMDU5
+MzI5NjkwLC0xOTMxMDE0Mjc1XX0=
 -->
