@@ -56,7 +56,8 @@ If you see this error simply click the orange button and you should be good to g
 ![JupyterLab Error] ()
     
 ## Magic Commands
-There are some add-ons to Ipython known as Magic Comands that are meant to solve common problems faced by users of the kernel. Some examples include; running an external script, timeing a function, and plotting matplotlib figures inline for viewing.
+There are some add-ons to Ipython known as Magic Comands that are meant to solve common problems faced by users of the kernel. Some examples include; running an external script `%run myscript.py`, timing a function `%time, and plotting matplotlib figures inline for viewing.
+
 
 
 ## Welcome to Jupyter
@@ -80,10 +81,10 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MDcyNzcyOSwtMTY3NTIxNjY0MiwxNj
-QyNTIwMzc3LC0xNDQ1Mzg3NSw5MTkyNTg0NjIsNDI1MjIzOTA5
-LC01ODEwNjc0OTksMTQ4MTY3MTA4LC0xNTk1MDUzMDA3LC0xNj
-UyOTY5MjMwLC0yMDA4MDk2Mjc5LDc2MDk2MjYyNywxMTczMDAx
-MDc4LC0xMzQzOTY1Njg5LDE2NDA2MDgxNzksLTIwNTkzMjk2OT
-AsLTE5MzEwMTQyNzVdfQ==
+eyJoaXN0b3J5IjpbLTE2ODY5Mjc1OTgsLTE2NzUyMTY2NDIsMT
+Y0MjUyMDM3NywtMTQ0NTM4NzUsOTE5MjU4NDYyLDQyNTIyMzkw
+OSwtNTgxMDY3NDk5LDE0ODE2NzEwOCwtMTU5NTA1MzAwNywtMT
+Y1Mjk2OTIzMCwtMjAwODA5NjI3OSw3NjA5NjI2MjcsMTE3MzAw
+MTA3OCwtMTM0Mzk2NTY4OSwxNjQwNjA4MTc5LC0yMDU5MzI5Nj
+kwLC0xOTMxMDE0Mjc1XX0=
 -->
