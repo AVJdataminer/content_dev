@@ -55,8 +55,9 @@ The most common problem you will encouter with Jupyter notebooks is a disconnect
 If you see this error simply click the orange button and you should be good to go.
 ![JupyterLab Error] ()
     
-## Magic Jupyter Functions
-#let's learn some cool stuff
+## Magic Commands
+There are some add-ons to Ipython known as Magic Comands that are meant to solve common problems faced by users. 
+
 ## Welcome to Jupyter
 
 Below, you'll see a Jupyter Notebook that has been embedded in the curriculum app.  You'll use Jupyter Notebooks in many checkpoints in this program.
@@ -78,9 +79,10 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MjUyMDM3NywtMTQ0NTM4NzUsOTE5Mj
-U4NDYyLDQyNTIyMzkwOSwtNTgxMDY3NDk5LDE0ODE2NzEwOCwt
-MTU5NTA1MzAwNywtMTY1Mjk2OTIzMCwtMjAwODA5NjI3OSw3Nj
-A5NjI2MjcsMTE3MzAwMTA3OCwtMTM0Mzk2NTY4OSwxNjQwNjA4
-MTc5LC0yMDU5MzI5NjkwLC0xOTMxMDE0Mjc1XX0=
+eyJoaXN0b3J5IjpbMjEzNzExMTgwMiwxNjQyNTIwMzc3LC0xND
+Q1Mzg3NSw5MTkyNTg0NjIsNDI1MjIzOTA5LC01ODEwNjc0OTks
+MTQ4MTY3MTA4LC0xNTk1MDUzMDA3LC0xNjUyOTY5MjMwLC0yMD
+A4MDk2Mjc5LDc2MDk2MjYyNywxMTczMDAxMDc4LC0xMzQzOTY1
+Njg5LDE2NDA2MDgxNzksLTIwNTkzMjk2OTAsLTE5MzEwMTQyNz
+VdfQ==
 -->
