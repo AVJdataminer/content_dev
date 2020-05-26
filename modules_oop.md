@@ -13,7 +13,7 @@ Check to see if the module you would like is installed. `
 pip list | grep <module_name_you_want_to_check>
 ` If you installed Python using Anaconda many common packages you will want to use such as Numpy will already be installed. You can get the entire list of modules installed in your current Python environment using `pip list`. 
 ### Installing modules
-Let's say you wanted to install the 
+Let's say you wanted to install the Geopandas module for working with spatial data in Python. There are three essential ways to install a package and the one you choose depends on your current Python management setup and preferrence. 
 
 ### Loading modules
  
@@ -40,5 +40,5 @@ Mainly, you need to recognize objects when you see them and know how to interact
 
 <jupyter notebook-name="working_with_objects_modules_libraries" course-code="DSBC"></jupyter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5MjYzMDQ0XX0=
+eyJoaXN0b3J5IjpbLTIwMDU2NDMzMjQsNTY5MjYzMDQ0XX0=
 -->
