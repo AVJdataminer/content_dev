@@ -43,7 +43,7 @@ IPython is a library that provides a rich toolkit to help users work with Python
 -   Easy to use, high performance tools for  [parallel computing](https://ipyparallel.readthedocs.io/en/latest/).  
 
 ## Kernels
-The *kernel for Jupyter* is what provides the interactive Python programming environment we use in this course **Jupyter Notebooks**.   A kernel in computer science is the core of the  operating system that allows communication between the user in software applications and the hardware components. In data science kernels have a front-end user side that allows for your programming to be written and pased to the back end host side through this connection. In addition to Jupyter Notebooks you will see the term for running kernels on [Kaggle](https://www.kaggle.com/notebooks) when you open a new notebook to view or compete in data science competitions.
+The *kernel for Jupyter* is what provides the interactive Python programming environment we use in this course **Jupyter Notebooks**.   A kernel in computer science is the core of the  operating system that allows communication between the user in software applications and the hardware components. In data science kernels have a front-end user side that allows for your programming to be written and pased to the back end host side through this connection. In addition to Jupyter Notebooks you will see the term for running kernels on [Kaggle](https://www.kaggle.com/notebooks) when you open a new notebook to view or compete in data science competitions.  
 ![Kernel structure](/resources/kernel_diagram.png)
 
 ## Jupyter notebooks
@@ -81,11 +81,11 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODAxNjQyNywtMTA4NTk0MzAyMCwtMT
-UxNTk0MzQ4MCw1MzIyMjYyNTQsLTIxMTYwMzU5MjEsLTE2NzUy
-MTY2NDIsMTY0MjUyMDM3NywtMTQ0NTM4NzUsOTE5MjU4NDYyLD
-QyNTIyMzkwOSwtNTgxMDY3NDk5LDE0ODE2NzEwOCwtMTU5NTA1
-MzAwNywtMTY1Mjk2OTIzMCwtMjAwODA5NjI3OSw3NjA5NjI2Mj
-csMTE3MzAwMTA3OCwtMTM0Mzk2NTY4OSwxNjQwNjA4MTc5LC0y
-MDU5MzI5NjkwXX0=
+eyJoaXN0b3J5IjpbNDI5NzE4MjUxLDEzOTgwMTY0MjcsLTEwOD
+U5NDMwMjAsLTE1MTU5NDM0ODAsNTMyMjI2MjU0LC0yMTE2MDM1
+OTIxLC0xNjc1MjE2NjQyLDE2NDI1MjAzNzcsLTE0NDUzODc1LD
+kxOTI1ODQ2Miw0MjUyMjM5MDksLTU4MTA2NzQ5OSwxNDgxNjcx
+MDgsLTE1OTUwNTMwMDcsLTE2NTI5NjkyMzAsLTIwMDgwOTYyNz
+ksNzYwOTYyNjI3LDExNzMwMDEwNzgsLTEzNDM5NjU2ODksMTY0
+MDYwODE3OV19
 -->
