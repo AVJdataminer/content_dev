@@ -52,8 +52,8 @@ The *kernel for Jupyter* is what provides the interactive Python programming env
 The most common problem you will encouter with Jupyter notebooks is a disconnect from the back end server, the fix is to reload the page. If your notebook does not return the expected results based on your code, double check your code and if you still don't see the problem reload the kernel.  Remember that all the code is dependent on the current kernel, therefore you must run all the previous cells in your notebook for the current one to run properly. Everytime you re-open your notebook you're creating a new kernel connection and must run all the preceding cells to work on a later cell in your notebook. Think of it as a top to bottom operation where sequential cells are executed in order.
 
 ## Have you seen my kernel ?
-If you see this error simply click the orange button and you should be good to go.
-![JupyterLab Error] ()
+If you see this error simply click the blue button to reload the kernel connection and you should be good start running some code.
+![JupyterHub Error] (/Images/server_load_error.png)
     
 ## Magic Commands
 There are some add-ons to Ipython known as Magic Comands that are meant to solve common problems faced by users of the kernel. Some examples include; running an external script `%run myscript.py`, timing a function `%timeit`, and plotting matplotlib figures inline `%matplotlib inline` for viewing. Learn more by reviewing the [docs](https://ipython.readthedocs.io/en/stable/interactive/magics.html).
@@ -80,10 +80,10 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTYwMzU5MjEsLTE2NzUyMTY2NDIsMT
-Y0MjUyMDM3NywtMTQ0NTM4NzUsOTE5MjU4NDYyLDQyNTIyMzkw
-OSwtNTgxMDY3NDk5LDE0ODE2NzEwOCwtMTU5NTA1MzAwNywtMT
-Y1Mjk2OTIzMCwtMjAwODA5NjI3OSw3NjA5NjI2MjcsMTE3MzAw
-MTA3OCwtMTM0Mzk2NTY4OSwxNjQwNjA4MTc5LC0yMDU5MzI5Nj
-kwLC0xOTMxMDE0Mjc1XX0=
+eyJoaXN0b3J5IjpbNTMyMjI2MjU0LC0yMTE2MDM1OTIxLC0xNj
+c1MjE2NjQyLDE2NDI1MjAzNzcsLTE0NDUzODc1LDkxOTI1ODQ2
+Miw0MjUyMjM5MDksLTU4MTA2NzQ5OSwxNDgxNjcxMDgsLTE1OT
+UwNTMwMDcsLTE2NTI5NjkyMzAsLTIwMDgwOTYyNzksNzYwOTYy
+NjI3LDExNzMwMDEwNzgsLTEzNDM5NjU2ODksMTY0MDYwODE3OS
+wtMjA1OTMyOTY5MCwtMTkzMTAxNDI3NV19
 -->
