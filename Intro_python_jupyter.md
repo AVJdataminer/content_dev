@@ -44,6 +44,7 @@ IPython is a library that provides a rich toolkit to help users work with Python
 
 ## Kernels
 The *kernel for Jupyter* is what provides the interactive Python programming environment we use in this course **Jupyter Notebooks**.   A kernel in computer science is the core of the  operating system that allows communication between the user in software applications and the hardware components. In data science kernels have a front-end user side that allows for your programming to be written and pased to the back end host side through this connection. In addition to Jupyter Notebooks you will see the term for running kernels on [Kaggle](https://www.kaggle.com/notebooks) when you open a new notebook to view or compete in data science competitions.
+![Kernel structure](/resources/kernel_diagram.png)
 
 ## Jupyter notebooks
  [Jupyter notebooks](http://jupyter.org/)  provide an interactive environment where you can mix text, equations, computer code and visual outputs. The flexibility of this tool has led to it  becoming the standard in data analytics and data science for project development work.  Check out the latest development of Jupyter notebboks, with more functionality [Jupyter Labs](https://jupyter.org/) works in the same way as Jupyter notebooks by creating a connection for user to run code and generate interactive results.
@@ -53,7 +54,7 @@ The most common problem you will encouter with Jupyter notebooks is a disconnect
 
 ## Have you seen my kernel ?
 If you see this error simply click the blue button to reload the kernel connection and you should be good start running some code.
-![JupyterHub Error] (/Images/server_load_error.png)
+![JupyterHub Error] (/resources/server_load_error.png)
     
 ## Magic Commands
 There are some add-ons to Ipython known as Magic Comands that are meant to solve common problems faced by users of the kernel. Some examples include; running an external script `%run myscript.py`, timing a function `%timeit`, and plotting matplotlib figures inline `%matplotlib inline` for viewing. Learn more by reviewing the [docs](https://ipython.readthedocs.io/en/stable/interactive/magics.html).
@@ -80,10 +81,11 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyMjI2MjU0LC0yMTE2MDM1OTIxLC0xNj
-c1MjE2NjQyLDE2NDI1MjAzNzcsLTE0NDUzODc1LDkxOTI1ODQ2
-Miw0MjUyMjM5MDksLTU4MTA2NzQ5OSwxNDgxNjcxMDgsLTE1OT
-UwNTMwMDcsLTE2NTI5NjkyMzAsLTIwMDgwOTYyNzksNzYwOTYy
-NjI3LDExNzMwMDEwNzgsLTEzNDM5NjU2ODksMTY0MDYwODE3OS
-wtMjA1OTMyOTY5MCwtMTkzMTAxNDI3NV19
+eyJoaXN0b3J5IjpbLTE1MTU5NDM0ODAsNTMyMjI2MjU0LC0yMT
+E2MDM1OTIxLC0xNjc1MjE2NjQyLDE2NDI1MjAzNzcsLTE0NDUz
+ODc1LDkxOTI1ODQ2Miw0MjUyMjM5MDksLTU4MTA2NzQ5OSwxND
+gxNjcxMDgsLTE1OTUwNTMwMDcsLTE2NTI5NjkyMzAsLTIwMDgw
+OTYyNzksNzYwOTYyNjI3LDExNzMwMDEwNzgsLTEzNDM5NjU2OD
+ksMTY0MDYwODE3OSwtMjA1OTMyOTY5MCwtMTkzMTAxNDI3NV19
+
 -->
