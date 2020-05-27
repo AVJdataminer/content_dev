@@ -18,7 +18,9 @@ Let's say you wanted to install the Geopandas module for working with spatial da
 
  1. If you use the conda package manager `conda install geopoandas`
  2. If you prefer pip `pip install geopandas`
- 3. Finally if you'd like to install directly from the source. 
+ 3. Finally if you'd like to install directly from the source `pip install git+git://github.com/geopandas/geopandas.git`
+
+If you're installing a module directly from Jupyter notebook
 
 ### Loading modules
  
@@ -45,6 +47,6 @@ Mainly, you need to recognize objects when you see them and know how to interact
 
 <jupyter notebook-name="working_with_objects_modules_libraries" course-code="DSBC"></jupyter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3NzI2NzQ5LC0yODc3MTMyODMsNTY5Mj
-YzMDQ0XX0=
+eyJoaXN0b3J5IjpbLTY5MDA0OTgyOCwtMjg3NzEzMjgzLDU2OT
+I2MzA0NF19
 -->
