@@ -23,7 +23,13 @@ Let's say you wanted to install the Geopandas module for working with spatial da
 If you're installing a module directly from Jupyter notebook using pip you would start a new cell and type `!pip install geopandas`. 
 
 ### Loading modules
- Once you have the packages you need installed, you need to load them by running import commands. For example to load Pandas we type `import pandas as pd` and now anytime we want to call a function that's available in the pandas module we preface it with `pd.` to indicate as such. Module import statements should be at the beginning of your program or jupyter notebook with one statement per li
+ Once you have the packages you need installed, you need to load them by running import commands. For example to load Pandas we type `import pandas as pd` and now anytime we want to call a function that's available in the pandas module we preface it with `pd.` to indicate as such. Module import statements should be at the beginning of your program or jupyter notebook with one statement per line, such as:
+ `import numpy as np`
+`import pandas as pd`
+`import scipy` 
+`from datetime import datetime`
+Those with `from` statements are absolute imports and are goo
+
 
 ### Dependencies
 Some packages will have dependencies, i.e. other modules they depend on in order to run properly. You can check the dependencies of a package using the `pip show module_name` command. When installing a package you may encouter a missing dependent module for the package you're trying to install. Simply install the dependent modules first and then proceed with installing the module you would like to use. The package documentation will most likely list the core dependent and optional dependent packages see the [GeoPandas page](https://geopandas.org/install.html) for an example.
@@ -48,7 +54,7 @@ Mainly, you need to recognize objects when you see them and know how to interact
 
 <jupyter notebook-name="working_with_objects_modules_libraries" course-code="DSBC"></jupyter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2Nzg0MjU4OSwtMjYwMzQxMDE1LC03OT
-AxNDM3NzIsLTk0Njk1MDg2LC0yODc3MTMyODMsNTY5MjYzMDQ0
-XX0=
+eyJoaXN0b3J5IjpbMTA2NzE1Njc3LC0yNjAzNDEwMTUsLTc5MD
+E0Mzc3MiwtOTQ2OTUwODYsLTI4NzcxMzI4Myw1NjkyNjMwNDRd
+fQ==
 -->
