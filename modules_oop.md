@@ -28,8 +28,8 @@ If you're installing a module directly from Jupyter notebook using pip you would
 `import pandas as pd`
 `import scipy` 
 `from datetime import datetime`
-Those with `from` statements are absolute imports, only loading the specified function from the module. These are recommended when you only need one or two functions from a module as they result in more read
 
+Those with `from` statements are absolute imports which only load the specified function from the module rather than all the functions in that module. These are recommended when you only need one or two functions from a module as they result in more understandable error messages and cleaner code.
 
 ### Dependencies
 Some packages will have dependencies, i.e. other modules they depend on in order to run properly. You can check the dependencies of a package using the `pip show module_name` command. When installing a package you may encouter a missing dependent module for the package you're trying to install. Simply install the dependent modules first and then proceed with installing the module you would like to use. The package documentation will most likely list the core dependent and optional dependent packages see the [GeoPandas page](https://geopandas.org/install.html) for an example.
@@ -54,7 +54,7 @@ Mainly, you need to recognize objects when you see them and know how to interact
 
 <jupyter notebook-name="working_with_objects_modules_libraries" course-code="DSBC"></jupyter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTY3NjUwNiwtMjYwMzQxMDE1LC03OT
+eyJoaXN0b3J5IjpbMTgyNjMwNDI5NywtMjYwMzQxMDE1LC03OT
 AxNDM3NzIsLTk0Njk1MDg2LC0yODc3MTMyODMsNTY5MjYzMDQ0
 XX0=
 -->
