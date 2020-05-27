@@ -24,11 +24,11 @@ If you're installing a module directly from Jupyter notebook using pip you would
 
 ### Loading modules
  Once you have the packages you need installed, you need to load them by running import commands. For example to load Pandas we type `import pandas as pd` and now anytime we want to call a function that's available in the pandas module we preface it with `pd.` to indicate as such. 
+ If you encounter a module loading error
+ -   Module loading errors
 
 ### Dependencies
-Some packages will have dependencies, i.e. other modules they depend on in order to run properly. You can check the dependencies of a package using the `pip show module_name` command. When installing a package you may encouter a missing dependent module for the package you're trying to install. Simply install the dependent modules first and then proceed with installing the module you would like to use. The package documentation will most likely list the core dependent and optional dependent packages 
-    
--   Module loading errors
+Some packages will have dependencies, i.e. other modules they depend on in order to run properly. You can check the dependencies of a package using the `pip show module_name` command. When installing a package you may encouter a missing dependent module for the package you're trying to install. Simply install the dependent modules first and then proceed with installing the module you would like to use. The package documentation will most likely list the core dependent and optional dependent packages see the [GeoPandas page](https://geopandas.org/install.html) for an example.
 
 ## Objects
 It's time to talk about something you've been using every time you write Python, but that you may not have been thinking about: objects.
@@ -47,6 +47,6 @@ Mainly, you need to recognize objects when you see them and know how to interact
 
 <jupyter notebook-name="working_with_objects_modules_libraries" course-code="DSBC"></jupyter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MDE0Mzc3MiwtOTQ2OTUwODYsLTI4Nz
-cxMzI4Myw1NjkyNjMwNDRdfQ==
+eyJoaXN0b3J5IjpbLTI3NDE3ODE3MCwtNzkwMTQzNzcyLC05ND
+Y5NTA4NiwtMjg3NzEzMjgzLDU2OTI2MzA0NF19
 -->
