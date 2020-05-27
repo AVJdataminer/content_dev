@@ -23,7 +23,7 @@ Let's say you wanted to install the Geopandas module for working with spatial da
 If you're installing a module directly from Jupyter notebook using pip you would start a new cell and type `!pip install geopandas`. 
 
 ### Loading modules
- 
+ Once you have the packages you need installed, you need to load them by running import commands. For exampls to load Pandas we type `import pandas as 
 
 ### Dependencies
 Some packages will have dependencies, i.e. other modules they depend on in order to run properly. You can check the dependencies of a package using the `pip show` command. 
@@ -47,6 +47,6 @@ Mainly, you need to recognize objects when you see them and know how to interact
 
 <jupyter notebook-name="working_with_objects_modules_libraries" course-code="DSBC"></jupyter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0Njk1MDg2LC0yODc3MTMyODMsNTY5Mj
-YzMDQ0XX0=
+eyJoaXN0b3J5IjpbLTEwNDU3NjI4MjMsLTk0Njk1MDg2LC0yOD
+c3MTMyODMsNTY5MjYzMDQ0XX0=
 -->
