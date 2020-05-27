@@ -54,8 +54,7 @@ The most common problem you will encouter with Jupyter notebooks is a disconnect
 
 ## Have you seen my kernel ?
 If you see this error simply click the blue button to reload the kernel connection and you should be good start running some code.
-
-![JupyterHub Error](/resources/server_load_error.png)
+![JupyterHub Error](https://raw.githubusercontent.com/AVJdataminer/content_dev/master/resources/kernel_diagram.png)
     
 ## Magic Commands
 There are some add-ons to Ipython known as Magic Comands that are meant to solve common problems faced by users of the kernel. Some examples include; running an external script `%run myscript.py`, timing a function `%timeit`, and plotting matplotlib figures inline `%matplotlib inline` for viewing. Learn more by reviewing the [docs](https://ipython.readthedocs.io/en/stable/interactive/magics.html).
@@ -82,11 +81,11 @@ Once you've made these changes, save this Notebook locally by clicking **File > 
 Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODU5NDMwMjAsLTE1MTU5NDM0ODAsNT
-MyMjI2MjU0LC0yMTE2MDM1OTIxLC0xNjc1MjE2NjQyLDE2NDI1
-MjAzNzcsLTE0NDUzODc1LDkxOTI1ODQ2Miw0MjUyMjM5MDksLT
-U4MTA2NzQ5OSwxNDgxNjcxMDgsLTE1OTUwNTMwMDcsLTE2NTI5
-NjkyMzAsLTIwMDgwOTYyNzksNzYwOTYyNjI3LDExNzMwMDEwNz
-gsLTEzNDM5NjU2ODksMTY0MDYwODE3OSwtMjA1OTMyOTY5MCwt
-MTkzMTAxNDI3NV19
+eyJoaXN0b3J5IjpbMTU1MDY0OTgzOSwtMTA4NTk0MzAyMCwtMT
+UxNTk0MzQ4MCw1MzIyMjYyNTQsLTIxMTYwMzU5MjEsLTE2NzUy
+MTY2NDIsMTY0MjUyMDM3NywtMTQ0NTM4NzUsOTE5MjU4NDYyLD
+QyNTIyMzkwOSwtNTgxMDY3NDk5LDE0ODE2NzEwOCwtMTU5NTA1
+MzAwNywtMTY1Mjk2OTIzMCwtMjAwODA5NjI3OSw3NjA5NjI2Mj
+csMTE3MzAwMTA3OCwtMTM0Mzk2NTY4OSwxNjQwNjA4MTc5LC0y
+MDU5MzI5NjkwXX0=
 -->
