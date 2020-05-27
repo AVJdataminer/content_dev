@@ -24,6 +24,7 @@ If you're installing a module directly from Jupyter notebook using pip you would
 
 ### Loading modules
  Once you have the packages you need installed, you need to load them by running import commands. For example to load Pandas we type `import pandas as pd` and now anytime we want to call a function that's available in the pandas module we preface it with `pd.` to indicate as such. Module import statements should be at the beginning of your program or jupyter notebook with one statement per line, such as:
+ 
  `import numpy as np`
 `import pandas as pd`
 `import scipy` 
@@ -54,7 +55,7 @@ Mainly, you need to recognize objects when you see them and know how to interact
 
 <jupyter notebook-name="working_with_objects_modules_libraries" course-code="DSBC"></jupyter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjMwNDI5NywtMjYwMzQxMDE1LC03OT
+eyJoaXN0b3J5IjpbLTY0MzYyODczNSwtMjYwMzQxMDE1LC03OT
 AxNDM3NzIsLTk0Njk1MDg2LC0yODc3MTMyODMsNTY5MjYzMDQ0
 XX0=
 -->
