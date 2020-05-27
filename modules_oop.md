@@ -28,7 +28,7 @@ If you're installing a module directly from Jupyter notebook using pip you would
 ### Dependencies
 Some packages will have dependencies, i.e. other modules they depend on in order to run properly. You can check the dependencies of a package using the `pip show module_name` command. When installing a package you may encouter a missing dependent module for the package you're trying to install. Simply install the dependent modules first and then proceed with installing the module you would like to use. The package documentation will most likely list the core dependent and optional dependent packages see the [GeoPandas page](https://geopandas.org/install.html) for an example.
 
- If you encounter a module loading error it is likely a dependent package missing or if running code from someone else it might be a missing module all together. 
+ If you encounter a module loading error it is likely a dependent package missing or if running code from someone else it might be a missing module all together. If you can't discern what the error is indicating, search for the message on Stackoverflow. Most likely someone else has  
  
  -   Module loading errors
  - 
@@ -49,6 +49,6 @@ Mainly, you need to recognize objects when you see them and know how to interact
 
 <jupyter notebook-name="working_with_objects_modules_libraries" course-code="DSBC"></jupyter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxOTM3Njg4OCwtNzkwMTQzNzcyLC05ND
-Y5NTA4NiwtMjg3NzEzMjgzLDU2OTI2MzA0NF19
+eyJoaXN0b3J5IjpbNzQwMjQ1MDM4LC03OTAxNDM3NzIsLTk0Nj
+k1MDg2LC0yODc3MTMyODMsNTY5MjYzMDQ0XX0=
 -->
