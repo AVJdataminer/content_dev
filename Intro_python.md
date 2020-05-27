@@ -78,8 +78,8 @@ Some packages will have dependencies, i.e. other modules they depend on in order
  If you encounter a module loading error it is likely a dependent package missing or if running code from someone else it might be a missing module all together. If you can't discern what the error is indicating, search for the message on [Stackoverflow](https://stackoverflow.com/questions/tagged/python). Most likely someone else has posted the same error and you will find community reponses to help. 
 
 ## Run a Random Forest Model
-Download [this notebook](https://drive.google.com/file/d/13SUTkQcdltROLamxF2wcp7mKIeQatfjT/view?usp=sharing) and save it in a place you 
+Download [this notebook](https://drive.google.com/file/d/13SUTkQcdltROLamxF2wcp7mKIeQatfjT/view?usp=sharing) and save it in a place you can navigate to easily. Then start a Jupyter notebook from your Anaconda prompt or the Terminal and go to File -> Open and select the downloaded notebook.
 open it Jupyter notebooks to get started running Python in Jupyter notebooks.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NTA2MTQ5Nl19
+eyJoaXN0b3J5IjpbMjA4MTE4NDExOF19
 -->
