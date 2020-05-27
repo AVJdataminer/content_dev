@@ -9,7 +9,7 @@ timeHours: 2
 ## Working with Modules
 Knowing what modules are and working with them can be two different things all together. So, let's breakdown how you work with modules. 
 
-Check to see if the module you would like is installed. `
+Check to see if the module you would like is installed. Note* these commands must be run in a terminal or caommand line window. In or`
 pip list | grep <module_name_you_want_to_check>
 ` If you installed Python using Anaconda many common packages you will want to use such as Numpy will already be installed. You can get the entire list of modules installed in your current Python environment using `pip list`. 
 ### Installing modules
@@ -44,5 +44,6 @@ Mainly, you need to recognize objects when you see them and know how to interact
 
 <jupyter notebook-name="working_with_objects_modules_libraries" course-code="DSBC"></jupyter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzcxMzI4Myw1NjkyNjMwNDRdfQ==
+eyJoaXN0b3J5IjpbMTM3MTA3NjMyNCwtMjg3NzEzMjgzLDU2OT
+I2MzA0NF19
 -->
