@@ -43,34 +43,12 @@ The *kernel for Jupyter* is what provides the interactive Python programming env
 ## Troubleshooting notebooks
 The most common problem you will encouter with Jupyter notebooks is a disconnect from the back end server, the fix is to reload the page. If your notebook does not return the expected results based on your code, double check your code and if you still don't see the problem reload the kernel.  Remember that all the code is dependent on the current kernel, therefore you must run all the previous cells in your notebook for the current one to run properly. Everytime you re-open your notebook you're creating a new kernel connection and must run all the preceding cells to work on a later cell in your notebook. Think of it as a top to bottom operation where sequential cells are executed in order.
 
-## Have you seen my kernel ?
-If you see this error simply click the blue button to reload the kernel connection and you should be good start running some code. 
-![JupyterHub Error](https://raw.githubusercontent.com/AVJdataminer/content_dev/master/resources/server_load_error.png)
     
 ## Magic Commands
 There are some add-ons to Ipython known as Magic Comands that are meant to solve common problems faced by users of the kernel. Some examples include; running an external script `%run myscript.py`, timing a function `%timeit`, and plotting matplotlib figures inline `%matplotlib inline` for viewing. Learn more by reviewing the [docs](https://ipython.readthedocs.io/en/stable/interactive/magics.html).
 
 
-## Welcome to Jupyter
-
-Below, you'll see a Jupyter Notebook that has been embedded in the curriculum app.  You'll use Jupyter Notebooks in many checkpoints in this program.
-
-Jupyter Notebooks are cloud-based, so you can't save files directly to your computer. Instead, you will download them and then upload them to another service. The next checkpoint will discuss those details—for now, just buckle up and enjoy your journey to Jupyter!
-
-<jupyter notebook-name="jupyter_intro" course-code="DSBC"></jupyter>
-
-## Assignment
-
-To complete this checkpoint, rework this Notebook so that it's a single cell with the following line of code in it:
-
-```
-print('Hello world from Jupyter notebooks')
-```
-
-Once you've made these changes, save this Notebook locally by clicking **File > Download as > Notebook (.ipynb)** at the top of the Jupyter Notebook interface. You'll save it as the file type `.ipynb`—this is the file type that is used to store Jupyter Notebooks. Save the Notebook on your computer, and name the file *hello_world_from_jupyter.ipynb*. 
-
-Finally, upload your *hello_world_from_jupyter.ipynb* file to a place that is publicly accessible on the web, such as GitHub. Submit a link to it below to show that you're able to run, modify, save, and distribute Jupyter Notebooks.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MjQxNjI1MF19
+eyJoaXN0b3J5IjpbMTc5NzY4MzU0XX0=
 -->
