@@ -28,7 +28,7 @@ If you're installing a module directly from Jupyter notebook using pip you would
 `import pandas as pd`
 `import scipy` 
 `from datetime import datetime`
-Those with `from` statements are absolute imports and are goo
+Those with `from` statements are absolute imports, only loading the specified function from the module. These are recommended when you only need one or two functions from a module as they result in more read
 
 
 ### Dependencies
@@ -54,7 +54,7 @@ Mainly, you need to recognize objects when you see them and know how to interact
 
 <jupyter notebook-name="working_with_objects_modules_libraries" course-code="DSBC"></jupyter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NzE1Njc3LC0yNjAzNDEwMTUsLTc5MD
-E0Mzc3MiwtOTQ2OTUwODYsLTI4NzcxMzI4Myw1NjkyNjMwNDRd
-fQ==
+eyJoaXN0b3J5IjpbMTM1NTY3NjUwNiwtMjYwMzQxMDE1LC03OT
+AxNDM3NzIsLTk0Njk1MDg2LC0yODc3MTMyODMsNTY5MjYzMDQ0
+XX0=
 -->
