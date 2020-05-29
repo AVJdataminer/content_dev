@@ -1,3 +1,8 @@
+#VS code and stackedit.io
+.vscode/
+.history/
+.stackedit-trash/
+
 # figures
 Figures/
 
